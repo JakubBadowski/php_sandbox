@@ -1,0 +1,3 @@
+To jest przykład do testowannia funkcji PHP operującej na stringach 
+Witamy na stronie "strona testowa" założonej przez Krzysierk O'Conor & Bro
+<p>Trochę <b>htmla</b> <?php echo 1+1 ?>dam TU</p>
